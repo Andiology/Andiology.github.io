@@ -1,0 +1,30 @@
+html {
+    background-color: #dae9f7d6;
+}
+
+body {
+    font-family: 'Concert One', serif;
+    font-size: 20px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fbecd8;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(101, 98, 98);
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgba(120, 53, 33, 0.838);
+    text-shadow: 2px 2px 1px rgb(199, 159, 159);
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p, li, a {
+    color: rgba(206, 112, 100, 0.918);
+}
